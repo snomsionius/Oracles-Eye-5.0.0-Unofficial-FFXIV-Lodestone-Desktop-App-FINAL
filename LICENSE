@@ -1,0 +1,118 @@
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+      
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form while regarding
+      the conditions stated below.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+      
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+   5. By using this software, you agree to the ways this application uses the 
+      data provided by you. More info stated below or under Settings->Privacy.
+
+   6. FREE FOR EVERYONE
+
+     This software is FREE to use for everyone. 
+     You are allowed to share it or link it on your website or elsewhere. 
+     Selling the software or access to download it, is forbidden.
+
+   7. DISTRIBUTION
+
+     When you want to create a download link, please keep in mind that 
+     the download must happen via my GitHub.
+     ALWAYS mention the original author of the software.
+
+   8. OPEN SOURCE
+
+     This software shall be OpenSource. You can use the sourcecode from GitHub to your liking 
+     and make tools with it.HOWEVER all projects derived from it must be OpenSource and distributed free of charge.
+     ALWAYS mention the author of the code. E.g. if someone made a project from my code and you base your prgram on 
+     it, credit both authors.I want this so it is evident who made what and noone takes credit for another mans work.
+
+   9. WARRANTY
+
+     This software comes AS IS and is not covered by any warranty from my side. If something goes wrong, the Creator is not 
+     responsible in any way for any damage that may occur.
+
+   10. DATA COLLECTION & USAGE
+
+     All data entered by the User does NOT get saved until the remember me login is used. Then the data listed below will get 
+     saved to automatically log-in next time.Everything else, Guild data, Jobs, Profile data come       
+     from the FFXVI API (Unofficial) through the App providing your ID, Server and Name. The App does NOT connect to another server 
+     besides the API,so no data gets stored on another server. This data is needed to provide the service.
+
+
+   END OF TERMS AND CONDITIONS
+
+
+   Copyright 2023, snomsionius
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
