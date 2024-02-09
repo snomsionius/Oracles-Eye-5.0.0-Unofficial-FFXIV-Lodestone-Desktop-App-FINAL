@@ -1,4 +1,4 @@
-# Oracle#s-Eye-5.0.0-Unofficial-FFXIV-Lodestone-Desktop-App
+# Oracle's-Eye-5.0.0-Unofficial-FFXIV-Lodestone-Desktop-App
 
 NOW FASTER AND VIRUS FLAG FREE
 
